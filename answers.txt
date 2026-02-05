@@ -1,4 +1,4 @@
-Pros/Cons of Agile vs non-Agile:
+Pros/Cons of Agile vs non-Agile
 Pros:
 1) It quickly adapts to change
 2) pretty quick feedback
@@ -6,7 +6,7 @@ Cons:
 1) need for team communication
 2) scope creep possibly
 
-(b) Scrum Master vs Product Owner:
+(b) Scrum Master vs Product Owner
 Scrum Master:
 It is coaching the team and also protects from potential distractions. It also removes impediments.
 Product Owner:
@@ -19,3 +19,9 @@ It maximizes value by prioritizing product backlog. It also defines requirements
 (1) What was done and also what will be next and if it has any blockers. (2) It will also make quick plan for next 24h.
 3) Sprint Review
 (1) it will show what the team finished in the project. (2) And finally it will show what was finished by the team and decide what to do next by looking at feedback.
+
+(d) Epic vs Story vs Bug vs Task
+Epic: big feature that is composed of multiple stories
+Story: it defines one user need and can be possibly finished in one sprint
+Bug: problem that nees to be fixed and is not working correctly
+Task: unit of specific technical work that need to be done to accomplish story or epic
