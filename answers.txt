@@ -11,3 +11,11 @@ Scrum Master:
 It is coaching the team and also protects from potential distractions. It also removes impediments.
 Product Owner:
 It maximizes value by prioritizing product backlog. It also defines requirements and accepts work that is done.
+
+(c) 3 sprint meetings:
+1) Sprint Planning
+(1) It picks which backlog items the team will do and (2) also sets the sprint goal and plan how much work would fit.
+2) Daily Scrum
+(1) What was done and also what will be next and if it has any blockers. (2) It will also make quick plan for next 24h.
+3) Sprint Review
+(1) it will show what the team finished in the project. (2) And finally it will show what was finished by the team and decide what to do next by looking at feedback.
