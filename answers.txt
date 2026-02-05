@@ -1,0 +1,7 @@
+Pros/Cons of Agile vs non-Agile:
+Pros:
+1) It quickly adapts to change
+2) pretty quick feedback
+Cons:
+1) need for team communication
+2) scope creep possibly
