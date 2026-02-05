@@ -5,3 +5,9 @@ Pros:
 Cons:
 1) need for team communication
 2) scope creep possibly
+
+(b) Scrum Master vs Product Owner:
+Scrum Master:
+It is coaching the team and also protects from potential distractions. It also removes impediments.
+Product Owner:
+It maximizes value by prioritizing product backlog. It also defines requirements and accepts work that is done.
